@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahimah Ansari</h1>
 <h3 align="center">A passionate backend developer from Afghanistan</h3>
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, Express, VueJS**
+- 🌱 I’m currently learning **JavaScript, NodeJS, Express, Mongodb**
 
 - 📫 How to reach me **rahimeansari7@gmail.com**
 
