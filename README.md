@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahimah Ansari</h1>
 <h3 align="center">A web developer!</h3>
 
-- 🌱 I’m currently learning **JavaScript, Node.js**
+- 🌱 I’m currently learning **JavaScript, Node.js, React.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Vue.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, React.js**
 
 - 📫 How to reach me **rahimeansari7@gmial.com**
 
