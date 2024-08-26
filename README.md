@@ -19,4 +19,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahimah-817&show_icons=true&locale=en" alt="rahimah-817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimah-817&" alt="rahimah-817" /></p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 
